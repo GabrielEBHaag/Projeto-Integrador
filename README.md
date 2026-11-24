@@ -7,7 +7,7 @@ Projeto acadêmico desenvolvido para o curso de Análise e Desenvolvimento de Si
 O StockControl é um sistema web de gerenciamento de estoque destinado a pequenas empresas, desenvolvido utilizando HTML, CSS, JavaScript, PHP e MariaDB.
 
 Seu objetivo é facilitar o gerenciamento de produtos, fornecedores, categorias e movimentações de estoque.
-
+ 
 ## Funcionalidades
 
 - Autenticação de usuários.
